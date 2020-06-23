@@ -1,0 +1,8 @@
+tqdm
+colorama
+sklearn
+cython
+pycocotools
+visualdl >= 2.0.0b
+paddleslim == 1.0.1
+shapely
